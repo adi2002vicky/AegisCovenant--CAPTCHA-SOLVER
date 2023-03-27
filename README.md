@@ -1,0 +1,1 @@
+# AegisCovenant--CAPTCHA-SOLVER
